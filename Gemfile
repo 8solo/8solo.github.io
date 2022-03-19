@@ -34,10 +34,12 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll-remote-theme"
-
 gem "jekyll-gist", "~> 1.5"
 
 gem "jekyll-paginate", "~> 1.1"
 
 gem "jekyll-sitemap", "~> 1.4"
+
+gem "jekyll-seo-tag", "~> 2.8"
+
+gem "jekyll-pagination", "~> 0.0.4"
