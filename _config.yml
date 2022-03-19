@@ -7,12 +7,14 @@
 title: OxO WTF!!!
 email: OxOWTFOxO@Gmail.com
 tagline: 魔幻的世界
-author: 鲁迅、闰土和猹
+author: 迅哥、闰土和猹
 description: >- # this means to ignore newlines until "baseurl:"
   我素不知道天下有这许多新鲜事：<br>
   海边有如许五色的贝壳；<br>
   西瓜有这样危险的经历，<br>
   我先前单知道它在水果店里出卖罢了。
+
+excerpt_separator: <!--more-->
 disqus:
   shortname: oxowtf
 
